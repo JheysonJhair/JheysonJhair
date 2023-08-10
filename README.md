@@ -1,4 +1,4 @@
-[![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+[![Header](https://nombre.vukki.net/significado/imagen/0-0-0-0-0/M/jhair.jpg "Header")]
 
 
 [![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@jhair_jjaa)
