@@ -15,9 +15,8 @@ Soy un **Desarrollador Fullstack** 🚀 apasionado creando soluciones digitales 
 
 ## 👉 Contáctame
 
-- 👨‍💻 Todos mis proyectos están disponibles en [jheysonjhairpro.ccontrolz.com](jheysonjhairpro.ccontrolz.com)
 
-- 💬 Preguntame sobre **html, css, javascript, typescript, scss, angularjs y reactjs**
+- 💬 Preguntame sobre **html, css, javascript, typescript, node.js, scss, angularjs y reactjs**
 
 - 📫Envíame un mensaje a **jheysonjhairpro@gmail.com**
 
