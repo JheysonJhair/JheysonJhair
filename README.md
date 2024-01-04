@@ -4,7 +4,6 @@
 [![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@jhair_jjaa)
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jheyson_jhair_aa/)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jheysonjhairpro/)
-[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)]()
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/jheysonjhair)
 
 
