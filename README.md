@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jheyson_jhair_aa/)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jheysonjhairpro/)
 [![facebook](https://img.shields.io/static/v1?label=&message=facebook&color=1877f2&logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/JheysonJhair.AroneAngeles.2003)
-[![website](https://img.shields.io/static/v1?label=&message=website&color=4CAF50&logo=chrome&style=for-the-badge)](https://jheysonjhairpro.ccontrolz.com/)
+[![website](https://img.shields.io/static/v1?label=&message=website&color=4CAF50&style=for-the-badge)](https://jheysonjhairpro.ccontrolz.com/)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/jheysonjhair)
 
 
