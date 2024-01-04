@@ -16,7 +16,7 @@ Soy un **Desarrollador Fullstack** 🚀 apasionado creando soluciones digitales 
 ## 👉 Contáctame
 
 
-- 💬 Preguntame sobre **html, css, javascript, typescript, node.js, scss, angularjs y reactjs**
+- 💬 Preguntame sobre **html, css, javascript, typescript, node.js, scss, angular, react native y react.js**
 
 - 📫Envíame un mensaje a **jheysonjhairpro@gmail.com**
 
